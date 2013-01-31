@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone5EQ PresetVer="2" PluginVer="5020" PluginBuild="705" Advanced="1">
+    <Global Enabled="1">
+        <ExtraBytes ElementID="0" Data="AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=" Element="Ozone5" />
+        <Param Type="Float" ElementID="1" ParamID="0" Element="Gain" Value="7,90000010" />
+        <Param Type="Float" ElementID="1" ParamID="2" Element="Gain" Value="7,90000010" />
+        <Param Type="Float" ElementID="1" ParamID="3" Element="Gain" Value="7,90000010" />
+        <Param Type="Float" ElementID="1" ParamID="4" Element="Gain" Value="4,30000019" />
+        <Param Type="Float" ElementID="1" ParamID="6" Element="Gain" Value="4,30000019" />
+        <Param Type="Float" ElementID="1" ParamID="7" Element="Gain" Value="4,30000019" />
+    </Global>
+    <Meters Enabled="1" />
+    <EQ Enabled="1">
+        <Param Type="Float" ElementID="8" ParamID="4" Element="Equalizer 1" Value="957,28515625" />
+        <Param Type="Float" ElementID="8" ParamID="8" Element="Equalizer 1" Value="5058,61328125" />
+        <Param Type="Float" ElementID="8" ParamID="9" Element="Equalizer 1" Value="14964,18652344" />
+        <Param Type="Float" ElementID="8" ParamID="12" Element="Equalizer 1" Value="-4,76852274" />
+        <Param Type="Float" ElementID="8" ParamID="16" Element="Equalizer 1" Value="4,09999847" />
+        <Param Type="Float" ElementID="8" ParamID="17" Element="Equalizer 1" Value="3,89999962" />
+        <Param Type="Float" ElementID="8" ParamID="20" Element="Equalizer 1" Value="11,09458637" />
+        <Param Type="Float" ElementID="8" ParamID="24" Element="Equalizer 1" Value="1,04998291" />
+        <Param Type="Float" ElementID="8" ParamID="25" Element="Equalizer 1" Value="1,14909148" />
+        <Param Type="Float" ElementID="8" ParamID="36" Element="Equalizer 1" Value="957,28515625" />
+        <Param Type="Float" ElementID="8" ParamID="40" Element="Equalizer 1" Value="5058,61328125" />
+        <Param Type="Float" ElementID="8" ParamID="41" Element="Equalizer 1" Value="14964,18652344" />
+        <Param Type="Float" ElementID="8" ParamID="44" Element="Equalizer 1" Value="-4,76852274" />
+        <Param Type="Float" ElementID="8" ParamID="48" Element="Equalizer 1" Value="4,09999847" />
+        <Param Type="Float" ElementID="8" ParamID="49" Element="Equalizer 1" Value="3,89999962" />
+        <Param Type="Float" ElementID="8" ParamID="52" Element="Equalizer 1" Value="11,09458637" />
+        <Param Type="Float" ElementID="8" ParamID="56" Element="Equalizer 1" Value="1,04998291" />
+        <Param Type="Float" ElementID="8" ParamID="57" Element="Equalizer 1" Value="1,14909148" />
+        <Param Type="UInt" ElementID="8" ParamID="14" Element="Equalizer 1" Value="5" />
+        <Param Type="UInt" ElementID="8" ParamID="22" Element="Equalizer 1" Value="5" />
+        <Param Type="Bool" ElementID="8" ParamID="16" Element="Equalizer 1" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="18" Element="Equalizer 1" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="19" Element="Equalizer 1" Value="1" />
+        <Param Type="Bool" ElementID="8" ParamID="22" Element="Equalizer 1" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="24" Element="Equalizer 1" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="26" Element="Equalizer 1" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="27" Element="Equalizer 1" Value="1" />
+        <Param Type="Bool" ElementID="8" ParamID="30" Element="Equalizer 1" Value="0" />
+    </EQ>
+</Ozone5EQ>

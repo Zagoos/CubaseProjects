@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracklist>
+   <list name="track" type="obj">
+      <obj class="MAudioTrackEvent" ID="1038373016">
+         <int name="Flags" value="1"/>
+         <float name="Start" value="0"/>
+         <float name="Length" value="729599.97400000005"/>
+         <obj class="MListNode" name="Node" ID="1625931096">
+            <string name="Name" value="Walter - Chitarra" wide="true"/>
+            <member name="Domain">
+               <int name="Type" value="0"/>
+               <obj class="MTempoTrackEvent" name="Tempo Track" ID="1038372416">
+                  <list name="TempoEvent" type="obj">
+                     <obj class="MTempoEvent" ID="1039047056">
+                        <float name="BPM" value="152"/>
+                        <float name="PPQ" value="0"/>
+                     </obj>
+                  </list>
+                  <float name="RehearsalTempo" value="120"/>
+               </obj>
+               <obj class="MSignatureTrackEvent" name="Signature Track" ID="1623064200">
+                  <list name="SignatureEvent" type="obj">
+                     <obj class="MTimeSignatureEvent" ID="1039046120">
+                        <int name="Bar" value="0"/>
+                        <int name="Numerator" value="4"/>
+                        <int name="Denominator" value="4"/>
+                        <int name="Position" value="0"/>
+                     </obj>
+                     <obj class="MTimeSignatureEvent" ID="1039047200">
+                        <int name="Bar" value="89"/>
+                        <int name="Numerator" value="4"/>
+                        <int name="Denominator" value="4"/>
+                        <int name="Position" value="170880"/>
+                     </obj>
+                  </list>
+               </obj>
+            </member>
+            <list name="Events" type="obj">
+               <obj class="MAudioEvent" ID="1038373136">
+                  <float name="Start" value="0"/>
+                  <float name="Length" value="6428016.0000005476"/>
+                  <int name="Priority" value="1"/>
+                  <obj class="PAudioClip" name="AudioClip" ID="1625793544">
+                     <string name="Name" value="Walter - Chitarra_01" wide="true"/>
+                     <member name="Domain">
+                        <int name="Type" value="10"/>
+                        <float name="Period" value="2.2675736961451248e-005"/>
+                     </member>
+                     <list name="Events" type="obj">
+                        <obj class="MMarkerEvent" ID="1039046768">
+                           <int name="Flags" value="9104"/>
+                           <float name="Start" value="0"/>
+                           <float name="Length" value="0"/>
+                           <string name="Name" value=""/>
+                           <int name="ID" value="3"/>
+                        </obj>
+                     </list>
+                     <obj class="FNPath" name="Path" ID="1623059320">
+                        <string name="Name" value="Walter - Chitarra_01.wav" wide="true"/>
+                        <string name="Path" value="D:\CubaseProjects\Landlord\Audio\" wide="true"/>
+                        <member name="FileType">
+                           <int name="MacType" value="1463899717"/>
+                           <string name="DosType" value="wav" wide="true"/>
+                           <string name="UnixType" value="wav" wide="true"/>
+                           <string name="Name" value="Wave File" wide="true"/>
+                        </member>
+                     </obj>
+                     <member name="Additional Attributes">
+                        <int name="Grain Size" value="1740"/>
+                        <obj name="GridDef" ID="1622772560"/>
+                        <obj name="RHYI" ID="1038445952"/>
+                        <int name="Stretch Preset" value="4"/>
+                        <float name="Warp Overlap" value="0.14000000000000001"/>
+                        <float name="Warp Variance" value="1"/>
+                     </member>
+                     <obj class="AudioCluster" name="Cluster" ID="1039048424">
+                        <list name="Substreams" type="obj">
+                           <obj class="AudioFile" ID="1623064424">
+                              <obj name="FPath" ID="1623059320"/>
+                              <int name="FrameCount" value="6428017"/>
+                              <int name="Sample Size" value="16"/>
+                              <int name="Frame Size" value="2"/>
+                              <float name="Rate" value="44100"/>
+                              <int name="Format" value="65536"/>
+                              <int name="ByteOrder" value="0"/>
+                              <int name="DataOffset" value="44"/>
+                           </obj>
+                        </list>
+                        <list name="Segments" type="list">
+                           <item>
+                              <obj name="Stream" ID="1623064424"/>
+                              <int name="Offset" value="0"/>
+                              <int name="Length" value="6428017"/>
+                              <int name="Start" value="0"/>
+                           </item>
+                        </list>
+                     </obj>
+                  </obj>
+               </obj>
+            </list>
+         </obj>
+         <member name="Additional Attributes">
+            <member name="Insp">
+            </member>
+         </member>
+         <obj class="MAudioTrack" name="Track Device" ID="1625793320">
+            <int name="Connection Type" value="1"/>
+            <string name="Device Name" value="VST Multitrack"/>
+            <int name="Channel ID" value="1"/>
+            <int name="Flags" value="0"/>
+         </obj>
+         <int name="Height" value="47"/>
+         <obj class="MAutomationNode" name="Automation" ID="1036999936">
+            <string name="Name" value="Automation"/>
+            <member name="Domain">
+               <int name="Type" value="0"/>
+               <obj name="Tempo Track" ID="1038372416"/>
+               <obj name="Signature Track" ID="1623064200"/>
+            </member>
+            <list name="Tracks" type="obj">
+               <obj class="MAutomationTrackEvent" ID="1037002512">
+                  <int name="Flags" value="32"/>
+                  <float name="Start" value="0"/>
+                  <float name="Length" value="729599.97400000005"/>
+                  <obj class="MAutoListNode" name="Node" ID="1625931240">
+                     <member name="Domain">
+                        <int name="Type" value="0"/>
+                        <obj name="Tempo Track" ID="1038372416"/>
+                        <obj name="Signature Track" ID="1623064200"/>
+                     </member>
+                     <list name="Events" type="obj">
+                        <obj class="MParamEvent" ID="277269624">
+                           <float name="Start" value="93838.327999999994"/>
+                           <float name="Value" value="0.72579121589660645"/>
+                        </obj>
+                        <obj class="MParamEvent" ID="277269752">
+                           <float name="Start" value="93838.337999999989"/>
+                           <float name="Value" value="0.84759056568145752"/>
+                        </obj>
+                        <obj class="MParamEvent" ID="277269688">
+                           <float name="Start" value="119039.99000000001"/>
+                           <float name="Value" value="0.84408092498779297"/>
+                        </obj>
+                        <obj class="MParamEvent" ID="277269816">
+                           <float name="Start" value="119040"/>
+                           <float name="Value" value="0.72035890817642212"/>
+                        </obj>
+                     </list>
+                  </obj>
+                  <obj class="MAutomationTrack" name="Track Device" ID="1036994232">
+                     <int name="Connection Type" value="2"/>
+                     <int name="Read" value="1"/>
+                     <int name="Write" value="0"/>
+                  </obj>
+                  <int name="Height" value="66"/>
+                  <int name="Tag" value="1025"/>
+                  <int name="TrackFlags" value="4"/>
+               </obj>
+            </list>
+            <obj name="Track Device" ID="1036994232"/>
+            <int name="Expanded" value="1"/>
+         </obj>
+      </obj>
+   </list>
+   <obj class="PArrangeSetup" name="Setup" ID="336335176">
+      <member name="Length">
+         <float name="Time" value="600"/>
+         <member name="Domain">
+            <int name="Type" value="1"/>
+            <float name="Period" value="1"/>
+         </member>
+      </member>
+      <int name="BarOffset" value="0"/>
+      <int name="FrameType" value="5"/>
+      <int name="TimeType" value="0"/>
+      <float name="SampleRate" value="44100"/>
+      <int name="SampleSize" value="16"/>
+      <int name="PanLaw" value="6"/>
+   </obj>
+
+   <obj class="PGridDefinition" ID="1622772560">
+      <float name="Tempo" value="152"/>
+      <int name="SigNom" value="4"/>
+      <int name="SigDenom" value="4"/>
+      <int name="Beats" value="369"/>
+      <float name="Offset" value="0"/>
+      <float name="offsetTempo" value="120"/>
+   </obj>
+
+   <obj class="PRhythmInfo" ID="1038445952">
+      <float name="Tempo" value="152"/>
+      <int name="SigNom" value="4"/>
+      <int name="SigDenom" value="4"/>
+      <int name="Bars" value="92"/>
+      <int name="Beats" value="1"/>
+   </obj>
+
+</tracklist>

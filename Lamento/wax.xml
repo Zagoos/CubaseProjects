@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tracklist>
+   <list name="track" type="obj">
+      <obj class="MAudioTrackEvent" ID="348869120">
+         <int name="Flags" value="1"/>
+         <float name="Start" value="0"/>
+         <float name="Length" value="600000.01341104542"/>
+         <obj class="MListNode" name="Node" ID="1030101944">
+            <string name="Name" value="Walter - Chitarra" wide="true"/>
+            <member name="Domain">
+               <int name="Type" value="0"/>
+               <obj class="MTempoTrackEvent" name="Tempo Track" ID="348869000">
+                  <list name="TempoEvent" type="obj">
+                     <obj class="MTempoEvent" ID="275744296">
+                        <float name="BPM" value="199.99998474121094"/>
+                        <float name="PPQ" value="0"/>
+                     </obj>
+                     <obj class="MTempoEvent" ID="275744080">
+                        <float name="BPM" value="199.99998474121094"/>
+                        <float name="PPQ" value="92155"/>
+                     </obj>
+                  </list>
+                  <float name="RehearsalTempo" value="125"/>
+                  <int name="RehearsalMode" value="1"/>
+               </obj>
+               <obj class="MSignatureTrackEvent" name="Signature Track" ID="1038287752">
+                  <list name="SignatureEvent" type="obj">
+                     <obj class="MTimeSignatureEvent" ID="275744368">
+                        <int name="Bar" value="0"/>
+                        <int name="Numerator" value="4"/>
+                        <int name="Denominator" value="4"/>
+                        <int name="Position" value="0"/>
+                     </obj>
+                  </list>
+               </obj>
+            </member>
+         </obj>
+         <member name="Additional Attributes">
+            <member name="Insp">
+            </member>
+         </member>
+         <obj class="MAudioTrack" name="Track Device" ID="1617052856">
+            <int name="Connection Type" value="1"/>
+            <string name="Device Name" value="VST Multitrack"/>
+            <int name="Channel ID" value="1"/>
+            <int name="Flags" value="0"/>
+         </obj>
+         <int name="Height" value="39"/>
+         <obj class="MAutomationNode" name="Automation" ID="340586160">
+            <string name="Name" value="Automation"/>
+            <member name="Domain">
+               <int name="Type" value="0"/>
+               <obj name="Tempo Track" ID="348869000"/>
+               <obj name="Signature Track" ID="1038287752"/>
+            </member>
+            <list name="Tracks" type="obj">
+               <obj class="MAutomationTrackEvent" ID="340585976">
+                  <int name="Flags" value="32"/>
+                  <float name="Start" value="0"/>
+                  <float name="Length" value="600000.01341104542"/>
+                  <obj class="MAutoListNode" name="Node" ID="1030101656">
+                     <member name="Domain">
+                        <int name="Type" value="0"/>
+                        <obj name="Tempo Track" ID="348869000"/>
+                        <obj name="Signature Track" ID="1038287752"/>
+                     </member>
+                     <list name="Events" type="obj">
+                        <obj class="MParamEvent" ID="1949793160">
+                           <float name="Start" value="120960"/>
+                           <float name="Value" value="0.72063356637954712"/>
+                        </obj>
+                        <obj class="MParamEvent" ID="1949793224">
+                           <float name="Start" value="120960.00999999999"/>
+                           <float name="Value" value="0.81539350748062134"/>
+                        </obj>
+                        <obj class="MParamEvent" ID="1949793288">
+                           <float name="Start" value="136319.98999999999"/>
+                           <float name="Value" value="0.81481367349624634"/>
+                        </obj>
+                        <obj class="MParamEvent" ID="1949793352">
+                           <float name="Start" value="136320"/>
+                           <float name="Value" value="0.71959590911865234"/>
+                        </obj>
+                     </list>
+                  </obj>
+                  <obj class="MAutomationTrack" name="Track Device" ID="340585792">
+                     <int name="Connection Type" value="2"/>
+                     <int name="Read" value="1"/>
+                     <int name="Write" value="0"/>
+                  </obj>
+                  <int name="Height" value="85"/>
+                  <int name="Tag" value="1025"/>
+                  <int name="TrackFlags" value="4"/>
+               </obj>
+               <obj class="MAutomationTrackEvent" ID="340577144">
+                  <int name="Flags" value="32"/>
+                  <float name="Start" value="0"/>
+                  <float name="Length" value="600000.01341104542"/>
+                  <obj class="MAutoListNode" name="Node" ID="1030101512">
+                     <member name="Domain">
+                        <int name="Type" value="0"/>
+                        <obj name="Tempo Track" ID="348869000"/>
+                        <obj name="Signature Track" ID="1038287752"/>
+                     </member>
+                  </obj>
+                  <obj name="Track Device" ID="340585792"/>
+                  <int name="Height" value="75"/>
+                  <int name="Tag" value="4109"/>
+                  <int name="TrackFlags" value="1"/>
+               </obj>
+               <obj class="MAutomationTrackEvent" ID="340585608">
+                  <int name="Flags" value="32"/>
+                  <float name="Start" value="0"/>
+                  <float name="Length" value="600000.01341104542"/>
+                  <obj class="MAutoListNode" name="Node" ID="1030101368">
+                     <member name="Domain">
+                        <int name="Type" value="0"/>
+                        <obj name="Tempo Track" ID="348869000"/>
+                        <obj name="Signature Track" ID="1038287752"/>
+                     </member>
+                  </obj>
+                  <obj name="Track Device" ID="340585792"/>
+                  <int name="Height" value="43"/>
+                  <int name="Tag" value="1027"/>
+                  <int name="TrackFlags" value="1"/>
+               </obj>
+            </list>
+            <obj name="Track Device" ID="340585792"/>
+            <int name="Expanded" value="1"/>
+         </obj>
+      </obj>
+   </list>
+   <obj class="PArrangeSetup" name="Setup" ID="1030842136">
+      <member name="Length">
+         <float name="Time" value="600"/>
+         <member name="Domain">
+            <int name="Type" value="1"/>
+            <float name="Period" value="1"/>
+         </member>
+      </member>
+      <int name="BarOffset" value="0"/>
+      <int name="FrameType" value="5"/>
+      <int name="TimeType" value="0"/>
+      <float name="SampleRate" value="44100"/>
+      <int name="SampleSize" value="16"/>
+      <int name="PanLaw" value="6"/>
+   </obj>
+</tracklist>
