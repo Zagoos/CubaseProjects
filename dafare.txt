@@ -6,3 +6,4 @@
 - Glue : drum
 - IronMan : mancano gli spartiti
 - Lamento : una limatina all'assolo ...
+- Stone : assolo (migliorare)
