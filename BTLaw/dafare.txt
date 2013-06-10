@@ -1,0 +1,2 @@
+- spostare JV a dx/sx
+- aumentare volume MC alla fine quando suona da solo
