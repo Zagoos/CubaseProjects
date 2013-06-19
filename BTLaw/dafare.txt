@@ -1,2 +1,6 @@
 - spostare JV a dx/sx
 - aumentare volume MC alla fine quando suona da solo
+- 19/06/2013 : Mario dice che interviene un compressore quando suonano i piatti, Limiter/Maximizer?
+- 19/06/2013 : abbassare livello dei piatti ?
+- 19/06/2013 : HH troppo alto (togliere?)
+
