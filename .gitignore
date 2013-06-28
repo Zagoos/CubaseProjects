@@ -86,3 +86,4 @@ compare/Images/
 *.wav
 sync.ffs_db
 checkoutPestoduroBranches.sh
+checkoutRemoteBranches.sh
