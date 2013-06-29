@@ -85,3 +85,4 @@ compare/Images/
 *.WAV
 *.wav
 checkoutPestoduroBranches.sh
+checkoutRemoteBranches.sh
