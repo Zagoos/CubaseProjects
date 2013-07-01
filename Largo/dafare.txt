@@ -1,5 +1,6 @@
 - 28/06/2013 : abbassare volume chitarre (ok, Largo_3)
 - 28/06/2013 : fare soli di chitarra
+- 01/07/2013 : passaggio da arpeggini a non-arpeggini brusco
 
 
 
