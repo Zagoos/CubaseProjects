@@ -87,3 +87,5 @@ compare/Images/
 sync.ffs_db
 checkoutPestoduroBranches.sh
 checkoutRemoteBranches.sh
+*.jpg
+*.db
