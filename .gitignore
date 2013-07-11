@@ -87,3 +87,9 @@ compare/Images/
 sync.ffs_db
 checkoutPestoduroBranches.sh
 checkoutRemoteBranches.sh
+AlbumArtSmall.jpg
+Folder.jpg
+AlbumArt_*_.jpg
+AlbumArt_*_Small.jpg
+AlbumArt_*_Large.jpg
+Thumbs.db
