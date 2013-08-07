@@ -86,3 +86,5 @@ compare/Images/
 *.wav
 *.jpg
 *.db
+checkoutRemoteBranches.sh
+sync.ffs_db
