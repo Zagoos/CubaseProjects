@@ -84,3 +84,5 @@ compare/Audio/
 compare/Images/
 *.WAV
 *.wav
+*.jpg
+*.db
