@@ -4,4 +4,4 @@
 - 03/07/2013 : HH troppo alto, crash troppo bassi
 - 03/07/2013 : JV bassa, WV troppo a sx
 - 03/07/2013 : chitarre alte (?)
-- 03/07/2013 : "buco di una chitarra a 2'28"
+- 03/07/2013 : "buco di una chitarra a 2'28" (ok, Largo_5)
