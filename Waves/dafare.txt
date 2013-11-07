@@ -10,3 +10,5 @@
 31/10/2013 : coretti oh-oh-oh
 01/11/2013 : cowbell all'inizio (ok, Waves_8)
 06/11/2013 : abbassare il volume della batteria (ok, Waves_9)
+07/11/2013 : alzare volume MC quando suona il tema principale (non pezzettini)
+07/11/2013 : rivedere uso dei ride (e' solo all'inizio) e HH
