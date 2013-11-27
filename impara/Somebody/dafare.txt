@@ -1,4 +1,12 @@
-- 19/11/2013 : abbassare volume chitarre
-- 19/11/2013 : chit dx gracchiante (Walter?)
-- 19/11/2013 : rifare seconda voce Jump 
-- 19/11/2013 : reverbero voce Walter?
+- 19/11/2013 : abbassare volume chitarre      ok
+- 19/11/2013 : chit dx gracchiante (Walter?)  ok
+- 19/11/2013 : rifare seconda voce Jump       ok
+- 19/11/2013 : reverbero voce Walter?         ok
+
+- 27/11/2013 : Regolati tutti i livelli degli effetti e degli slides
+- 27/11/2013 : Equalizzazioni diverse per chitarre, basso e voci
+- 27/11/2013 : tolti rumori sulle tracce dove non si suona
+- 27/11/2013 : sdoppiate le voci e portate indietro con delay e filtro Q
+
+- 27/11/2013 : provare a comprimere la voce principale (ok in Somebody_03)
+- 27/11/2013 : modificare curva fade out assoli
