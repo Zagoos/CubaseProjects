@@ -9,9 +9,11 @@
 - 27/11/2013 : sdoppiate le voci e portate indietro con delay e filtro Q
 
 - 27/11/2013 : provare a comprimere la voce principale (ok in Somebody_03)
-- 27/11/2013 : modificare curva fade out assoli
+- 27/11/2013 : modificare curva fade out assoli, ok
 
-- 29/11/2013 : dx/sx voci ok
-- 29/11/2013 : volume solo ok
-               tolto filtro Q troppo stretto e aggiunto reverb
+- 29/11/2013 : dx/sx voci ok, Somebody_5-1
+- 29/11/2013 : volume solo ok, Somebody_5-1
+               tolto filtro Q troppo stretto e aggiunto reverb e corus ok, Somebody_5-1
+
+- 11/12/2013 : allineate e livellate le voci, modificati effetti chitarre, abbassata la batteria (ma si può ancora abbassare, soprattutto gli hihat)
 
