@@ -3,3 +3,4 @@
 - 19/06/2013 : piatti troppo alti (ok, AmJesus_41)
 - 19/06/2013 : registrare un'altra MV o WV per metterne una a dx ed una a sx (ok, AmJesus_42)
 - 01/07/2013 : riposizionare le chitarre tra dx e sx (ok, AmJesus_43)
+- 29/12/2013 : anticipata WC di un microZUT, controllati volumi e tolto "rumori" iniziali del brano
