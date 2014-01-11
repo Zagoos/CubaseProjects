@@ -1,1 +1,4 @@
-- verificare chitarra canale sinistro: "gracchia" un po' (verificare tipo di effetto, equalizzazione, volumi effetti: che non clippino da qualche parte)
+- 10/01/2014 : verificare chitarra canale sinistro: "gracchia" un po' 
+               (verificare tipo di effetto, equalizzazione, volumi effetti: che non clippino da qualche parte)
+	       (ok, Iron_3)
+- 10/01/2014 : modificare effetto voce iniziale (ok, Iron_3)	       
