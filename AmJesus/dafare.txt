@@ -5,3 +5,4 @@
 - 01/07/2013 : riposizionare le chitarre tra dx e sx (ok, AmJesus_43)
 - 29/12/2013 : anticipata WC di un microZUT, controllati volumi e tolto "rumori" iniziali del brano
 - 10/01/2014 : anticipare basso J
+- 15/01/2014 : anticipato basso e allineate tute le tracce alla batteria(AmJesus_45)
