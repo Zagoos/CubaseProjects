@@ -6,3 +6,5 @@
 - 29/12/2013 : anticipata WC di un microZUT, controllati volumi e tolto "rumori" iniziali del brano
 - 10/01/2014 : anticipare basso J
 - 15/01/2014 : anticipato basso e allineate tute le tracce alla batteria(AmJesus_45)
+- 16/01/2014 : diminuire riverbero WV
+- 16/01/2014 : riregistrare riff iniziale per migliorare esitazioni?
