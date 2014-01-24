@@ -1,2 +1,6 @@
 - echo su voce 
 - eliminare WV su traccia JV
+
+- controllato volumi, rev batteria e fade out (Somebody_14)
+
+- provare a cambiare impostazioni mastering/imaging
