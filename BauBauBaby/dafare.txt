@@ -3,4 +3,6 @@
 
 - controllato volumi, rev batteria e fade out (Somebody_14)
 
-- provare a cambiare impostazioni mastering/imaging
+- provare a cambiare impostazioni mastering/imaging e  abbasare batteria (Somebody_15)
+
+- equalizzate chitarre e basso (Somebody_16)
