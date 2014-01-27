@@ -7,4 +7,6 @@
 
 - equalizzate chitarre e basso (Somebody_16)
 
-- alzare voce, abbassare basso (Somebody_17) versione mer me OK!!
+- alzare voce, abbassare basso (Somebody_17) 
+
+- abbassati basso e kick (Somebody_18) 
