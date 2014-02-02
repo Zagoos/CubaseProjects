@@ -1,12 +1,16 @@
 - echo su voce 
 - eliminare WV su traccia JV
 
-- controllato volumi, rev batteria e fade out (Somebody_14)
+- controllato volumi, rev batteria e fade out (ok in BauBauBaby_14)
 
-- provare a cambiare impostazioni mastering/imaging e  abbasare batteria (Somebody_15)
+- provare a cambiare impostazioni mastering/imaging e  abbasare batteria (ok in BauBauBaby_15)
 
-- equalizzate chitarre e basso (Somebody_16)
+- equalizzate chitarre e basso (ok in BauBauBaby_16)
 
-- alzare voce, abbassare basso (Somebody_17) 
+- alzare voce, abbassare basso (ok in BauBauBaby_17) 
 
-- abbassati basso e kick (Somebody_18) 
+- abbassati basso e kick (ok in BauBauBaby_18) 
+
+- alzati il primo kikc e il primo crash (ok in BauBauBaby_19)
+
+
