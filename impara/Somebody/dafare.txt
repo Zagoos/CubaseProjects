@@ -24,3 +24,5 @@
 - 10/01/2014 : abbassare voci coro (ok Somebody_12)
 
 - 02/02/2014 : impostazioni mastering tipo BTLaw (ok Somebody_13)
+
+- 03/02/2014 : abbassare batteria (ok Somebody_14)
