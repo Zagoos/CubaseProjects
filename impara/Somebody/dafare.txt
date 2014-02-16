@@ -28,3 +28,5 @@
 - 03/02/2014 : abbassare batteria (ok Somebody_14)
 
 - 10/02/2014 : abbassare riverbero voce W, togliere dippio kick: spostati con pan (ok Somebody_15)
+
+- 16/02/2014 : delay iniziale WV (ok Somebody_16)
