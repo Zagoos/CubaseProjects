@@ -5,4 +5,5 @@
 - 19/06/2013 : HH troppo alto (togliere?) (ok, BTLaw_8)
 - 16/02/2014 : pulite tracce inizio e fine, messo delay WV (ok, BTLaw_9)
 - 23/02/2014 : abbassato crash (ok, BTLaw_10)
-- 26/02/2014 : abbassato riverbero VW, abbassato volume JV, messo pingpong delay(ok, BTLaw_11)
+- 26/02/2014 : abbassato riverbero VW, abbassato volume JV, messo pingpong delay (ok, BTLaw_11)
+- 01/03/2014 : prova con pingpong metallico in crescendo (ok, BTLaw_12)
