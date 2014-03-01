@@ -1,3 +1,7 @@
 - 18/06/2013 - alzare JV : ok (Iomela_9)
 - 18/06/2013 - abbassare HH : ok (Iomela_9)
 - 18/06/2013 - abbassare MV e WV : ok (Iomela_9)
+- 01/03/2014 - equalizzato e regolato volumi (Iomela_10)
+
+chitarre iniziali da mettere eventualmente a tempo tra loro
+sembra che ci sia un effetto gate/limiter che interviene ogni tanto...
