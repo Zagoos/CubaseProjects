@@ -9,5 +9,5 @@
 - 16/01/2014 : diminuire riverbero WV (OK mixdown AmJesus_46)
 - 15/02/2014 : attivato immagine stereo, diminuito rev batteria (AmJesus_47)
 
-- 16/01/2014 : riregistrare riff iniziale per migliorare esitazioni?
-- 03/03/2014 : aumentare volume batteria all'attacco (+ ghddu!)
+- 16/01/2014 : riregistrare riff iniziale per migliorare esitazioni? : fatto un po' di copia/incolla... (ok AmJesus_49)
+- 03/03/2014 : aumentare volume batteria all'attacco (+ ghddu!) (ok AmJesus_49)
