@@ -10,5 +10,6 @@
 - 15/02/2014 : attivato immagine stereo, diminuito rev batteria (AmJesus_47)
 - 16/01/2014 : riregistrare riff iniziale per migliorare esitazioni? : fatto un po' di copia/incolla... (ok AmJesus_49)
 - 03/03/2014 : aumentare volume batteria all'attacco (+ ghddu!) (ok AmJesus_49)
-- 23/03/2014 : maximizer se MC (AmJesus_50)
+- 23/03/2014 : maximizer su MC (AmJesus_50)
+- 23/03/2014 : alzata WC (AmJesus_51)
 
