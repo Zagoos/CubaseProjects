@@ -3,7 +3,8 @@
 - 18/06/2013 - abbassare MV e WV : ok (Iomela_9)
 - 01/03/2014 - equalizzato e regolato volumi (Iomela_10)
 - 02/03/2014 - allineare chitarre e basso, umanizzare batteria, effetto gate/limiter che interviene ogni tanto: tolto maximizer (ok Iomela_11)
+- 23/03/2014 - spostate le chitarre verso il centro(sembrano più sincronizzate), abbassato crash e HH, rimesso maximizer (ok Iomela_12)
 
-equalizzazione generale da rivedere: non sunoa benissimo...
+
 
 
