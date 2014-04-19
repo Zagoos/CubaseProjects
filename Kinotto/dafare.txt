@@ -2,3 +2,5 @@
 - 19/06/2013 : il tuo "uauauau" si sente un po' troppo rispetto alla voce Jump (Mario) (ok, Kin8_4)
 - 19/04/2014 : pulite tracce in ingresso e uscita (kin8_6)
 - 19/04/2014 : eq e regolati volumi, aggiunto delay su doppie voci (kin8_7)
+
+abbassare basso, alzare doppie voci e pezzettini chitarra MC2
