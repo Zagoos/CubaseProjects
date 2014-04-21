@@ -7,3 +7,5 @@
 
 abbassare un po' la batteria specialmente HH, WV satura in alcuni punti provare ad abbassare volume o abbassare maximizer
 
+21/04/2014 - variato dinamica, ridotto dist chitarre e messo limiter su VW (Llord_8) verificare se migliorato rispetto a Llord_7
+il limiter funziona ma ci sono troppi medi
