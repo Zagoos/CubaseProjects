@@ -9,3 +9,5 @@ abbassare un po' la batteria specialmente HH, WV satura in alcuni punti provare 
 
 21/04/2014 - variato dinamica, ridotto dist chitarre e messo limiter su VW (Llord_8) verificare se migliorato rispetto a Llord_7
 il limiter funziona ma ci sono troppi medi
+
+25/04/2014 - modificato mastering ozone5, spostato limiter voce direttamente su alloy (Llord_9)
