@@ -2,3 +2,5 @@
                (verificare tipo di effetto, equalizzazione, volumi effetti: che non clippino da qualche parte)
 	       (ok, Iron_3)
 - 10/01/2014 : modificare effetto voce iniziale (ok, Iron_3)	       
+- 09/06/2014 : modificata voce (Iron_5)
+- 09/06/2014 : test echo finale (Iron_6)
