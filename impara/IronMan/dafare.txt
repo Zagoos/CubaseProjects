@@ -6,3 +6,4 @@
 - 11/06/2014 : equalizzato e messo echo finale (Iron_7)
 - 15/06/2014 : taglio tracce finali, eq, effetti,... tanta robbba (Iron_9)
 - 15/06/2014 : riverbero ultima voce (Iron_10)
+- 27/06/2014 : abbassato tono voce W inizio (Iron_11)
