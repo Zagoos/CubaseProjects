@@ -82,6 +82,7 @@ impara/Wounds/Images
 sync.ffs_lock
 compare/Audio/
 compare/Images/
+Mixer channels/
 *.WAV
 *.wav
 sync.ffs_db
