@@ -13,4 +13,6 @@
 
 - alzati il primo kikc e il primo crash (ok in BauBauBaby_19)
 
+- modifiche eq in BauBauBaby_20 non soddisfacenti ripreso BauBauBaby_19 tagliato inizio e modificati effetti (ok BauBauBaby_21)
+
 
