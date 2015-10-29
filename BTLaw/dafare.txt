@@ -1,0 +1,14 @@
+- registrare nuova traccia JV (il primo BTL non e' stato cantato) e spostare JV a dx/sx (ok, BTLaw_8)
+- aumentare volume MC alla fine quando suona da solo
+- 19/06/2013 : Mario dice che interviene un compressore quando suonano i piatti, Limiter/Maximizer? (ok, BTLaw_8)
+- 19/06/2013 : abbassare livello dei piatti ? (ok, BTLaw_8)
+- 19/06/2013 : HH troppo alto (togliere?) (ok, BTLaw_8)
+- 16/02/2014 : pulite tracce inizio e fine, messo delay WV (ok, BTLaw_9)
+- 23/02/2014 : abbassato crash (ok, BTLaw_10)
+- 26/02/2014 : abbassato riverbero VW, abbassato volume JV, messo pingpong delay (ok, BTLaw_11)
+- 01/03/2014 : prova con pingpong metallico in crescendo (ok, BTLaw_12)
+- 03/03/2014 : accorciare pingpong?
+- 03/03/2014 : "manca" snare a 0:22 circa
+- 03/03/2014 : diminuire volume voce in "you don't what is it like ..."
+
+
