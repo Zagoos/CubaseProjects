@@ -1,0 +1,4 @@
+09/10/2013 : abbassare livello (o cambiare) HH
+eliminate MC MW JB e lasciate MC-perf MW-perf JB-perf che sono più a tempo(Paranoid_6)
+pulite le tracce e prima bozza di regolazione volumi(Paranoid_6)
+variati effetti ed eq chitarre (Paranoid_7)
