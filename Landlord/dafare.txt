@@ -1,0 +1,13 @@
+26/06/2013 - HH fastidioso (ok, Llord_4)
+26/06/2013 - solo WC troppo basso di volume (ok, Llord_4)
+26/06/2013 - solo WC da rifare (ok, Llord_4)
+01/07/2013 - passaggio da solo a non-solo bruschetto (ok, Llord_6)
+02/07/2013 - meno kick piu' snare (ok, Llord_6)
+21/04/2014 - eq, pulite tracce all'inizio, allineato MC all'inizio, volumi (ok, Llord_7)
+
+abbassare un po' la batteria specialmente HH, WV satura in alcuni punti provare ad abbassare volume o abbassare maximizer
+
+21/04/2014 - variato dinamica, ridotto dist chitarre e messo limiter su VW (Llord_8) verificare se migliorato rispetto a Llord_7
+il limiter funziona ma ci sono troppi medi
+
+25/04/2014 - modificato mastering ozone5, spostato limiter voce direttamente su alloy (Llord_9)

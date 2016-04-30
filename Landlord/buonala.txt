@@ -1,0 +1,12 @@
+152
+
+MC: 25
+WC-Solo : Wax-22
+WC : 02
+
+160
+
+WC-solo : 7
+JB : 32
+MC : 32
+
