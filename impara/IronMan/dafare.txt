@@ -1,0 +1,10 @@
+- 10/01/2014 : verificare chitarra canale sinistro: "gracchia" un po' 
+               (verificare tipo di effetto, equalizzazione, volumi effetti: che non clippino da qualche parte)
+	       (ok, Iron_3)
+- 10/01/2014 : modificare effetto voce iniziale (ok, Iron_3)	       
+- 09/06/2014 : modificata voce  e provato echo (Iron_5/6)
+- 11/06/2014 : equalizzato e messo echo finale (Iron_7)
+- 15/06/2014 : taglio tracce finali, eq, effetti,... tanta robbba (Iron_9)
+- 15/06/2014 : riverbero ultima voce (Iron_10)
+- 27/06/2014 : abbassato tono voce W inizio (Iron_11)
+- 27/06/2014 : abbassato tono voce W inizio + traccia con tono originale (Iron_12)
