@@ -1,0 +1,8 @@
+- 28/06/2013 : abbassare volume chitarre (ok, Largo_3)
+- 28/06/2013 : fare soli di chitarra
+- 01/07/2013 : passaggio da arpeggini a non-arpeggini brusco (ok, Largo_4)
+- 03/07/2013 : HH troppo alto, crash troppo bassi (ok, Largo_7)
+- 03/07/2013 : JV bassa (ok, Largo_6)
+- 03/07/2013 : chitarre alte (?)
+- 03/07/2013 : "buco di una chitarra a 2'28" (ok, Largo_5)
+- 23/08/2013 : registrare seconda traccia WV
