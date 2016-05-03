@@ -1,0 +1,32 @@
+- 19/11/2013 : abbassare volume chitarre      ok, Somebody_3
+- 19/11/2013 : chit dx gracchiante (Walter?)  ok, Somebody_3
+- 19/11/2013 : rifare seconda voce Jump       ok, Somebody_3
+- 19/11/2013 : reverbero voce Walter?         ok, Somebody_3
+
+- 27/11/2013 : Regolati tutti i livelli degli effetti e degli slides
+- 27/11/2013 : Equalizzazioni diverse per chitarre, basso e voci ok
+- 27/11/2013 : tolti rumori sulle tracce dove non si suona
+- 27/11/2013 : sdoppiate le voci e portate indietro con delay e filtro Q
+
+- 27/11/2013 : provare a comprimere la voce principale (ok in Somebody_03)
+- 27/11/2013 : modificare curva fade out assoli, ok
+
+- 29/11/2013 : dx/sx voci ok, Somebody_5-1
+- 29/11/2013 : volume solo ok, Somebody_5-1
+               tolto filtro Q troppo stretto e aggiunto reverb e corus ok, Somebody_5-1
+
+- 11/12/2013 : allineate e livellate le voci, modificati effetti chitarre, abbassata la batteria (ma si può ancora abbassare, soprattutto gli hihat)
+
+- 18/12/2013 : abbassati HH e migliorate doppie voci (Somebody_6 mixdown)
+
+- 18/12/2013 : portare piu' "avanti" soli di chitarra con trucco Walter?
+
+- 10/01/2014 : abbassare voci coro (ok Somebody_12)
+
+- 02/02/2014 : impostazioni mastering tipo BTLaw (ok Somebody_13)
+
+- 03/02/2014 : abbassare batteria (ok Somebody_14)
+
+- 10/02/2014 : abbassare riverbero voce W, togliere dippio kick: spostati con pan (ok Somebody_15)
+
+- 16/02/2014 : delay iniziale WV (ok Somebody_16)
