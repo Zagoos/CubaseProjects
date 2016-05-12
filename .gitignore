@@ -5,12 +5,9 @@
 */Audio
 */Images
 */Edits
-brutti/*/Audio
-brutti/*/Images
-brutti/*/Edits
-impara/*/Audio
-impara/*/Images
-impara/*/Edits
+*/*/Audio
+*/*/Images
+*/*/Edits
 sync.ffs_lock
 *.jpg
 *.db
